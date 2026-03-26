@@ -90,7 +90,7 @@ const products = [
     },
     {
         id: 9,
-        name: "Camisa Azúl Oscuro Formal",
+        name: "Camisa Azúl Oscuro",
         price: 90000,
         originalPrice: 150000,
         category: "camisas",

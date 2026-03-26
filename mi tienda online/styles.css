@@ -5,9 +5,9 @@
     --secondary-color: #d1692d;
     --success-color: #28a745;
     --danger-color: #dc3545;
-    --warning-color: #ffc107;
+    --warning-color: #bec562;
     --info-color: #b81717;
-    --light-color: #f8f9fa;
+    --light-color: #5e7c9b;
     --dark-color: #343a40;
 }
 
@@ -79,7 +79,7 @@ body {
     width: 30px;
     height: 30px;
     border: 1px solid #dee2e6;
-    background: rgb(87, 148, 156);
+    background: rgb(93, 165, 153);
     border-radius: 4px;
     display: flex;
     align-items: center;
